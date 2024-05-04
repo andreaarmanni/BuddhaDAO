@@ -1,7 +1,7 @@
 ---
 description: >-
   The Buddha DAO constitution is a set of binding rules that determine the
-  foundational pillars upon which Buddha is built.
+  foundational pillars upon which Buddha DAO is built.
 ---
 
 # 📜 Buddha DAO Constitution
@@ -28,13 +28,12 @@ In the spirit of enlightenment and mindful collaboration, we, the members of the
 * The Buddha DAO shall be governed by a decentralized, democratic system that allows all members to participate in decision-making.
 * Proposals for changes to the DAO's structure, operations, or policies may be submitted by any member and will be voted on by the community.
 * Proposals that receive a majority of votes in favor will be implemented.
-* A council of elected members shall serve as a guiding body for the DAO, providing leadership and direction while remaining accountable to the community.
+* A council of elected members shall serve as a guiding body for the DAO and signees of the Treasury. Any member of the community can join the Council if elected.
 
 ## Article 5: Treasury
 
 * The DAO shall maintain a treasury to fund its operations, initiatives, and projects. This treasury is funded by a 1% trading Tax
-* The DAO treasury can be found at: \_\_\_\_\_\_\_&#x20;
-* The treasury shall be managed by a multi-signature wallet, requiring the approval of multiple council members for transactions.
+* The treasury shall be managed by a multi-signature wallet, requiring the approval of 4/7 council members for transactions.
 * The community shall have the power to approve or reject proposals for the allocation of funds from the treasury.
 
 ## Article 6:  Amendments
