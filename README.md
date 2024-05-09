@@ -21,7 +21,11 @@ coverY: 0
 
 🪷 BASE: 0x7157bD49F14835a412f1331D7c1e7F05Ae54dB85
 
-### 🚀  Buddha Pool on ETH has a 1% Tax that goes to fund community initiaitve through Buddha DAO 
+### 🚀  Buddha/ETH Pool has a 1% Tax that goes to Buddha DAO Treasury to fund community initiatives
+
+🪷 **Buddha DAO Treasury:** 0x5644FaE731C6702221B2DBcCE0Eb303937DBED9F
+
+<figure><img src=".gitbook/assets/Screenshot 2024-05-09 at 05.35.44.png" alt=""><figcaption></figcaption></figure>
 
 ## Our Values
 
@@ -93,13 +97,12 @@ This is paramount in our community. We strive to maintain open lines of communic
 
 ## Official Links
 
-* [Twitter](https://twitter.com/buddhacoinworld) - _maintained by \_\_\_\_\_\_\__
-* Discord - _maintained by \_\_\_\_\_\_\__
-* Telegram - _maintained by \_\_\_\_\_\_\__
-* [Messari](https://messari.io/project/buddha) - _maintained by \_\_\_\_\_\_\__
-* [_Merch Store_ ](https://www.buddhacoin.store/)_- maintained by \_\_\_\_\_\_\__
-* [CoinGecko](https://www.coingecko.com/en/coins/buddha) - _maintained by \_\_\_\_\_\_\__
-* [CoinMarketCap](https://coinmarketcap.com/currencies/buddha/) - _maintained by \_\_\_\_\_\_\__
-* [Website](https://buddhacoin.world/) - _maintained by \_\_\_\_\_\_\__
-* Snapshot - _maintained by \_\_\_\_\_\_\__
-* Gmail - _maintained by \_\_\_\_\_\_\__
+* [Twitter](https://twitter.com/buddhacoinworld)&#x20;
+* [Discord](https://discord.gg/47PZCWzzS3)&#x20;
+* [Telegram](https://t.me/buddhacoinworld)&#x20;
+* [Messari](https://messari.io/project/buddha)&#x20;
+* [_Merch Store_ ](https://www.buddhacoin.store/)
+* [CoinGecko](https://www.coingecko.com/en/coins/buddha)&#x20;
+* [CoinMarketCap](https://coinmarketcap.com/currencies/buddha/)&#x20;
+* [Website](https://buddhacoin.world/)&#x20;
+* [Snapshot](https://snapshot.org/#/2720.eth)&#x20;

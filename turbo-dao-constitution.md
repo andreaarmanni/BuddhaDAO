@@ -33,6 +33,7 @@ In the spirit of enlightenment and mindful collaboration, we, the members of the
 ## Article 5: Treasury
 
 * The DAO shall maintain a treasury to fund its operations, initiatives, and projects. This treasury is funded by a 1% trading Tax
+* The DAO treasury is identified as buddhamarketing.eth or 0x5644FaE731C6702221B2DBcCE0Eb303937DBED9F
 * The treasury shall be managed by a multi-signature wallet, requiring the approval of 4/7 council members for transactions.
 * The community shall have the power to approve or reject proposals for the allocation of funds from the treasury.
 

@@ -9,7 +9,7 @@ description: >-
 
 #### The Council <a href="#the-council" id="the-council"></a>
 
-The council shall be comprised of 7 members who will serve as representatives in overseeing community governance and managing its core functions. Elections for council members shall be held every three months.
+Elections for council members shall be held every three months. The council shall be comprised of 7 members who will serve as representatives in overseeing community governance and managing its core functions.&#x20;
 
 **Councilors Requirements**
 
