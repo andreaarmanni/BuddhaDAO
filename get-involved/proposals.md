@@ -7,35 +7,25 @@ description: >-
 
 # 🗞️ Proposals
 
-## 1. Proposals Lifecycle
+## Proposals Lifecycle
 
-#### ✍️ Write Your Proposal
+### 📢 Step 1: Discuss Your Proposal&#x20;
 
-When writing your proposal make sure you define the type of proposal you're submitting, as well as the motivation and benefit for the community
+Get help & feedback from the community before you write & submit your proposal.
 
-#### 📢  Discuss Your Proposal&#x20;
+Enter the [Official Buddha Telegram Group](https://t.me/buddhacoinworld) and start discussing your proposal openly in the chat. A contributor from the Community Team will engage & help you draft your proposal.&#x20;
 
-Get help & feedback from the community before you submit your proposal:
+### &#x20;📝 Step 2: Write Your Proposal
 
-* Open a "New Post" in the Discord #Forum & post your proposal using the tag "Proposal"
-* A contributor from the Community Team will engage & provide feedback to your proposal
+When writing your proposal make sure you define the type of proposal you're submitting, as well as the motivation and benefit for the community. A contributor from the Community Team will support you with it if you need help.&#x20;
 
-#### 🗳  Submit Your Proposal
+### 🗳 Step 3: Submit Your Proposal
 
-Once the feedback is incorporated and your proposal is ready, you can submit your proposal to the Community Team. To do so, you can mention or tag any Advisors and they will bring your proposal to the right entity:
+Once the feedback is incorporated and your proposal is ready, you can submit your proposal directly via [Snapshot](https://snapshot.org/#/2720.eth) or ask a Contributor from the Community Team to do it for you.&#x20;
 
-* **Buddha Proposals** will be brought to the council. The Council will take care of executing them via Snapshots. \
-  \
-  _Note: All proposals handed over to the Council are by default accepted into Snapshot. However, the council reserves the rights to comment proposals before they are brought to vote._&#x20;
-* **Community Proposals** will be brought to the respective Team Advisors who will take care of executing them via Discord Poll. &#x20;
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-10 at 23.33.42.png" alt=""><figcaption></figcaption></figure>
 
-_Note: All proposals handed over to the Team Advisors are by default accepted into Discord. However, the Team Advisors reserves the rights to comment proposals before they are brought to vote._
-
-
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-05-04 at 20.10.28.png" alt=""><figcaption></figcaption></figure>
-
-## 2. Proposal Types
+## Proposal Types
 
 <details>
 
@@ -45,7 +35,7 @@ This is a proposal for a series of high-level changes aimed at amending the foun
 \
 **Voters**: Everyone\
 **Tool**: Snapshot\
-**Duration**: 5 days\
+**Duration**: 3 days\
 **Quorum**: Buddha Proposals require a minimum approval of 50% to pass
 
 </details>
@@ -57,8 +47,8 @@ This is a proposal for a series of high-level changes aimed at amending the foun
 This is a proposal introduced to ensure a fast-turnaround of community initiatives that don't necessarily need the vote of the entire community. It includes a series of low-level initiatives & operations aimed at improving internal tactics. A Community Proposal must be presented under the supervision of at least one Buddha Team. \
 \
 **Voters**: Mostly addressed to Team Leads, Advisors & Contributors, but anyone can vote\
-**Tool**: Discord Poll\
-**Duration**: 5 days\
+**Tool**: Telegram Poll\
+**Duration**: 3 days\
 **Quorum**: Community Proposals require a minimum approval of 50% to pass
 
 </details>
@@ -79,9 +69,7 @@ This is a core proposal aimed at changing the constitution of Buddha. \
 \
 **Voters**: Everyone\
 **Tool**: Snapshot\
-**Duration**: 5 days\
+**Duration**: 3 days\
 **Quorum**: Constitutional Amendment require a minimum approval of 70% to pass and at least 1% of circulating token
 
 </details>
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-05-04 at 20.09.03.png" alt=""><figcaption></figcaption></figure>

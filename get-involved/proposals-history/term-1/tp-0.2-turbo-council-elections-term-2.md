@@ -2,10 +2,10 @@
 
 |                   |                                                                                                                                                                                                                            |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Authors**       |                                                                                                                                                                                                                            |
+| **Authors**       | 751.eth                                                                                                                                                                                                                    |
 | **Proposal Type** | Structural Proposal                                                                                                                                                                                                        |
 | **Voting Method** | Snapshot                                                                                                                                                                                                                   |
-| **Status**        |                                                                                                                                                                                                                            |
-| **Discourse**     |                                                                                                                                                                                                                            |
-| **Details**       | [https://snapshot.org/#/2720.eth/proposal/0x4b644221b1b726305bf0185816d1c8b6c3fe4bd832cfe3e4606a18d3762f5a68](https://snapshot.org/#/2720.eth/proposal/0x4b644221b1b726305bf0185816d1c8b6c3fe4bd832cfe3e4606a18d3762f5a68) |
+| **Status**        | Passed                                                                                                                                                                                                                     |
+| **Discourse**     | Telegram                                                                                                                                                                                                                   |
+| **Details**       | [https://snapshot.org/#/2720.eth/proposal/0x70502f8f96999127ec4b6cd1bd1e2f66fc414269343fbcaf7a746f891e835aff](https://snapshot.org/#/2720.eth/proposal/0x70502f8f96999127ec4b6cd1bd1e2f66fc414269343fbcaf7a746f891e835aff) |
 

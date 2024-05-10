@@ -15,15 +15,18 @@ coverY: 0
 
 ### Official Contract Address
 
-🪷 ETHEREUM: 0xdefb0b264032e4e128b00d02b3fd0aa00331237b
+🚀 **ETHEREUM**: 0xdefb0b264032e4e128b00d02b3fd0aa00331237b
 
-🪷 SOLANA: 9tPGrP597tz5hy1f6RmUCE2csZthnduMrcw2T73cTE81
+🚀  **SOLANA**: 9tPGrP597tz5hy1f6RmUCE2csZthnduMrcw2T73cTE81
 
-🪷 BASE: 0x7157bD49F14835a412f1331D7c1e7F05Ae54dB85
+🚀 **BASE**: 0x7157bD49F14835a412f1331D7c1e7F05Ae54dB85
 
-### 🚀  Buddha/ETH Pool has a 1% Tax that goes to Buddha DAO Treasury to fund community initiatives
+### 🏦 Buddha/ETH Pool has a 1% Tax that goes to Buddha DAO Treasury to fund community initiatives
 
 🪷 **Buddha DAO Treasury:** 0x5644FaE731C6702221B2DBcCE0Eb303937DBED9F
+
+🪷 **Buddha DAO Reserve:** \
+0x7bdD39fc6E1C327fe78FC180AF116a077a8c8a57
 
 <figure><img src=".gitbook/assets/Screenshot 2024-05-09 at 05.35.44.png" alt=""><figcaption></figcaption></figure>
 

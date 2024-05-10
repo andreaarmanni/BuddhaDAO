@@ -4,7 +4,6 @@
 * [📜 Buddha DAO Constitution](turbo-dao-constitution.md)
 * [🌱 Get Involved](get-involved/README.md)
   * [🗞️ Proposals](get-involved/proposals.md)
-  * [🌏 Teams](get-involved/teams.md)
   * [🎓 Council](get-involved/council.md)
   * [📩 Proposals History](get-involved/proposals-history/README.md)
     * [Term 1](get-involved/proposals-history/term-1/README.md)
