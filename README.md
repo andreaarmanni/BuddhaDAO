@@ -1,17 +1,15 @@
 ---
 description: >-
-  BuddhaDAO is a decentalized oasis for self-exploration, mindful investing,
-  spirituality, and connections. Welcoming you to immerse yourself in
-  meditations, meme, music, and conversations.
+  $BUDDHA rises as the zen master of all memecoins. Our ancient monk-inspired
+  memecoin combines the power of mindfulness and meme culture, promising
+  enlightenment for degens everywhere.
 cover: .gitbook/assets/1500x500 copy (1).jpg
 coverY: 0
 ---
 
-# 🧘‍♂️ Welcome to Buddha DAO
+# 🧘‍♂️ The Most Ancient Cult, Endorsed by Elon
 
-## Buy & Sell $BUDDHA&#x20;
-
-<figure><img src=".gitbook/assets/uniswap8205 copy.jpg" alt=""><figcaption></figcaption></figure>
+{% embed url="https://x.com/elonmusk/status/1739729243943129482" %}
 
 ### Official Contract Address
 
@@ -19,16 +17,11 @@ coverY: 0
 
 🚀  **SOLANA**: 9tPGrP597tz5hy1f6RmUCE2csZthnduMrcw2T73cTE81
 
-🚀 **BASE**: 0x7157bD49F14835a412f1331D7c1e7F05Ae54dB85
-
 ### 🏦 Buddha/ETH Pool has a 1% Tax that goes to Buddha DAO Treasury to fund community initiatives
 
-🪷 **Buddha DAO Treasury:** 0x5644FaE731C6702221B2DBcCE0Eb303937DBED9F
+🪷 **BuddhaDAO Treasury:** 0x2175F32be13E71b94396967F7c6585Bf4A6EaEB9 is currently managed by the community elected council members of BuddhaDAO
 
-🪷 **Buddha DAO Reserve:** \
-0x7bdD39fc6E1C327fe78FC180AF116a077a8c8a57
-
-<figure><img src=".gitbook/assets/Screenshot 2024-05-09 at 05.35.44.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://x.com/buddhacoinDAO/status/1850967299483976187" %}
 
 ## Our Values
 
@@ -100,12 +93,9 @@ This is paramount in our community. We strive to maintain open lines of communic
 
 ## Official Links
 
-* [Twitter](https://twitter.com/buddhacoinworld)&#x20;
-* [Discord](https://discord.gg/47PZCWzzS3)&#x20;
+* [Twitter](https://www.x.com/buddhacoinDAO)&#x20;
 * [Telegram](https://t.me/buddhacoinworld)&#x20;
+* [Snapshot](https://snapshot.org/#/2720.eth)&#x20;
 * [Messari](https://messari.io/project/buddha)&#x20;
-* [_Merch Store_ ](https://www.buddhacoin.store/)
 * [CoinGecko](https://www.coingecko.com/en/coins/buddha)&#x20;
 * [CoinMarketCap](https://coinmarketcap.com/currencies/buddha/)&#x20;
-* [Website](https://buddhacoin.world/)&#x20;
-* [Snapshot](https://snapshot.org/#/2720.eth)&#x20;

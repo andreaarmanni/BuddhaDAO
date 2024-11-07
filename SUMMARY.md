@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🧘‍♂️ Welcome to Buddha DAO](README.md)
+* [🧘‍♂️ The Most Ancient Cult, Endorsed by Elon](README.md)
 * [📜 Buddha DAO Constitution](turbo-dao-constitution.md)
 * [🌱 Get Involved](get-involved/README.md)
   * [🗞️ Proposals](get-involved/proposals.md)
